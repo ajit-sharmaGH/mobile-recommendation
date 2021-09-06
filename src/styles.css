@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: hsl(77, 16%, 35%);
+}
+
+h1 {
+  color:yellow;
+  margin:auto;
+
+}
+
+#container {
+  align-content: center;
+}
+
+#item {
+  border: 1px solid #fee27f;
+  border-style: outset;
+  text-align: left;
+  list-style-type: none;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+button {
+  color: #110f48;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+ul {
+  padding: 1rem;
+  font-size: 16px;
+}
